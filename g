@@ -1,0 +1,17 @@
+proxies:
+  - {"name":"tw","server":"tw.v2ssvps.com","port":20761,"type":"vmess","uuid":"939b8c74-3499-3dab-b092-3bb05fb2f259","alterId":2,"cipher":"auto","tls":false,"network":"tcp"}
+  - {"name":"ru","server":"206.189.37.170","port":21209,"type":"vmess","uuid":"939b8c74-3499-3dab-b092-3bb05fb2f259","alterId":2,"cipher":"auto","tls":false,"network":"tcp"}
+  - {"name":"de","server":"d.baofu.buzz","port":21207,"type":"vmess","uuid":"939b8c74-3499-3dab-b092-3bb05fb2f259","alterId":2,"cipher":"auto","tls":false,"network":"tcp"}
+  - {"name":"sg1","server":"206.189.37.170","port":21233,"type":"vmess","uuid":"939b8c74-3499-3dab-b092-3bb05fb2f259","alterId":2,"cipher":"auto","tls":false,"network":"tcp"}
+  - {"name":"sg3","server":"206.189.37.170","port":61765,"type":"vmess","uuid":"939b8c74-3499-3dab-b092-3bb05fb2f259","alterId":2,"cipher":"auto","tls":false,"network":"tcp"}
+  - {"name":"sg2","server":"18.162.58.9","port":20785,"type":"vmess","uuid":"939b8c74-3499-3dab-b092-3bb05fb2f259","alterId":2,"cipher":"auto","tls":false,"network":"tcp"}
+  - {"name":"jp1","server":"j1.baofu.buzz","port":21201,"type":"vmess","uuid":"939b8c74-3499-3dab-b092-3bb05fb2f259","alterId":2,"cipher":"auto","tls":false,"network":"tcp"}
+  - {"name":"jp2","server":"j2.baofu.buzz","port":21103,"type":"vmess","uuid":"939b8c74-3499-3dab-b092-3bb05fb2f259","alterId":2,"cipher":"auto","tls":false,"network":"tcp"}
+  - {"name":"hk1","server":"tw.v2ssvps.com","port":21232,"type":"vmess","uuid":"939b8c74-3499-3dab-b092-3bb05fb2f259","alterId":2,"cipher":"auto","tls":false,"network":"tcp"}
+  - {"name":"hk2","server":"tw.v2ssvps.com","port":21203,"type":"vmess","uuid":"939b8c74-3499-3dab-b092-3bb05fb2f259","alterId":2,"cipher":"auto","tls":false,"network":"tcp"}
+  - {"name":"in","server":"in.baofu.buzz","port":21208,"type":"vmess","uuid":"939b8c74-3499-3dab-b092-3bb05fb2f259","alterId":2,"cipher":"auto","tls":false,"network":"tcp"}
+  - {"name":"tr","server":"t.baofu.buzz","port":21206,"type":"vmess","uuid":"939b8c74-3499-3dab-b092-3bb05fb2f259","alterId":2,"cipher":"auto","tls":false,"network":"tcp"}
+  - {"name":"us1","server":"g3.gs1024.com","port":21224,"type":"trojan","password":"939b8c74-3499-3dab-b092-3bb05fb2f259","sni":"host=m1.baofu.buzz"}
+  - {"name":"us2","server":"g3.gs1024.com","port":21225,"type":"trojan","password":"939b8c74-3499-3dab-b092-3bb05fb2f259","sni":"host=m2.baofu.buzz"}
+  - {"name":"hk3","server":"g9.gs1024.com","port":21223,"type":"trojan","password":"939b8c74-3499-3dab-b092-3bb05fb2f259","sni":"host=hk3.baofu.buzz"}
+  - {"name":"IPLC","server":"iplc.gs1024.com","port":20227,"type":"trojan","password":"939b8c74-3499-3dab-b092-3bb05fb2f259","sni":"host=ip.baofu.buzz"}
