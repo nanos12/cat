@@ -14,7 +14,7 @@ proxies:
   - {name: "V2 | 香港2", server: gzcm2.jjadg-adap.com, port: 43960, type: vmess, uuid: 95a25327-9195-11ec-a4b3-00163e067fd5, alterId: 1, cipher: auto, tls: false, network: ws, ws-path: /situ-hgc2}
   - {name: "V2 | 香港3", server: gzcm2.jjadg-adap.com, port: 43960, type: vmess, uuid: 95a25327-9195-11ec-a4b3-00163e067fd5, alterId: 1, cipher: auto, tls: false, network: ws, ws-path: /situ-hgc3}
   - {name: "V2 | 香港4", server: gzcm2.jjadg-adap.com, port: 43960, type: vmess, uuid: 95a25327-9195-11ec-a4b3-00163e067fd5, alterId: 1, cipher: auto, tls: false, network: ws, ws-path: /situ-hgc4}
-  - {name: ""V2 | 马来西亚1", server: gzcm2.jjadg-adap.com, port: 43960, type: vmess, uuid: 95a25327-9195-11ec-a4b3-00163e067fd5, alterId: 1, cipher: auto, tls: false, network: ws, ws-path: /situ-tm1}
+  - {name: "V2 | 马来西亚1", server: gzcm2.jjadg-adap.com, port: 43960, type: vmess, uuid: 95a25327-9195-11ec-a4b3-00163e067fd5, alterId: 1, cipher: auto, tls: false, network: ws, ws-path: /situ-tm1}
   - {name: "V2 | 马来西亚2", server: gzcm2.jjadg-adap.com, port: 43960, type: vmess, uuid: 95a25327-9195-11ec-a4b3-00163e067fd5, alterId: 1, cipher: auto, tls: false, network: ws, ws-path: /situ-tm2} 
   - {name: "V2 | 香港1 | IEPL x3", server: fwfvnsvvnvksdviepl.jjadg-adap.com, port: 9001, type: vmess, uuid: 95a25327-9195-11ec-a4b3-00163e067fd5, alterId: 1, cipher: auto, tls: false, network: tcp, ws-path: /hls}
   - {name: "V2 | 香港2 | IEPL x3", server: fwfvnsvvnvksdviepl.jjadg-adap.com, port: 9002, type: vmess, uuid: 95a25327-9195-11ec-a4b3-00163e067fd5, alterId: 1, cipher: auto, tls: false, network: tcp, ws-path: /hls}
