@@ -1,0 +1,11 @@
+proxies:
+  - {name: "美国 1 GIA CN2", server: usa.04.sola.plus, port: 12022, type: vmess, uuid: 5231e197-0228-3c6e-aaf6-61f0c0af4347, alterId: 0, cipher: auto, tls: false}
+  - {name: "日本 西 IDCF", server: jpn.05.sola.plus, port: 12345, type: vmess, uuid: 5231e197-0228-3c6e-aaf6-61f0c0af4347, alterId: 0, cipher: auto, tls: false}
+  - {name: "台湾 Hinet (高优先)", server: twn.02.sola.plus, port: 11001, type: vmess, uuid: 5231e197-0228-3c6e-aaf6-61f0c0af4347, alterId: 0, cipher: auto, tls: false}
+  - {name: "美国GIA CN2", server: usa.01.sola.plus, port: 12500, type: vmess, uuid: 5231e197-0228-3c6e-aaf6-61f0c0af4347, alterId: 0, cipher: auto, tls: false}
+  - {name: "日本 高配 sakura", server: jpn.01.sola.plus, port: 13300, type: vmess, uuid: 5231e197-0228-3c6e-aaf6-61f0c0af4347, alterId: 0, cipher: auto, tls: false}
+  - {name: "日本 东 IDCF", server: jpn.06.sola.plus, port: 12345, type: vmess, uuid: 5231e197-0228-3c6e-aaf6-61f0c0af4347, alterId: 0, cipher: auto, tls: false}
+  - {name: "日本 sakura", server: jpn.03.sola.plus, port: 12345, type: vmess, uuid: 5231e197-0228-3c6e-aaf6-61f0c0af4347, alterId: 0, cipher: auto, tls: false}
+  - {name: "日本 GMO", server: jpn.04.sola.plus, port: 12345, type: vmess, uuid: 5231e197-0228-3c6e-aaf6-61f0c0af4347, alterId: 0, cipher: auto, tls: false}
+  - {name: "中国 香港 HKBN", server: hk.01.ddnss.vip, port: 12345, type: vmess, uuid: 5231e197-0228-3c6e-aaf6-61f0c0af4347, alterId: 0, cipher: auto, tls: false}
+  - {name: "中国 台湾 Hinet", server: tw.01.ddnss.vip, port: 10000, type: vmess, uuid: 5231e197-0228-3c6e-aaf6-61f0c0af4347, alterId: 2, cipher: auto, tls: false}
