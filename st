@@ -1,0 +1,22 @@
+proxies:
+  - {name: jp, server: hncu1.v22222.xyz, port: 43960, type: vmess, uuid: 95a25327-9195-11ec-a4b3-00163e067fd5, alterId: 1, cipher: auto, tls: false, network: ws, ws-path: /situ-jp2}
+  - {name: "V1 | 新加坡1", server: gzcm1.jjadg-adap.com, port: 43960, type: vmess, uuid: 95a25327-9195-11ec-a4b3-00163e067fd5, alterId: 1, cipher: auto, tls: false, network: ws, ws-path: /situ-sp1}
+  - {name: "V1 | 新加坡2", server: gzcm1.jjadg-adap.com, port: 43960, type: vmess, uuid: 95a25327-9195-11ec-a4b3-00163e067fd5, alterId: 1, cipher: auto, tls: false, network: ws, ws-path: /situ-sp2}
+  - {name: "V1 | 新加坡3", server: gzcm1.jjadg-adap.com, port: 43960, type: vmess, uuid: 95a25327-9195-11ec-a4b3-00163e067fd5, alterId: 1, cipher: auto, tls: false, network: ws, ws-path: /situ-sp3}
+  - {name: "V1 | 新加坡4", server: gzcm1.jjadg-adap.com, port: 43960, type: vmess, uuid: 95a25327-9195-11ec-a4b3-00163e067fd5, alterId: 1, cipher: auto, tls: false, network: ws, ws-path: /situ-sp4}
+  - {name: "V1 | 新加坡5", server: gzcm1.jjadg-adap.com, port: 43960, type: vmess, uuid: 95a25327-9195-11ec-a4b3-00163e067fd5, alterId: 1, cipher: auto, tls: false, network: ws, ws-path: /situ-sp5}
+  - {name: "V2 | 日本1", server: hncu.jjadg-adap.com, port: 43960, type: vmess, uuid: 95a25327-9195-11ec-a4b3-00163e067fd5, alterId: 1, cipher: auto, tls: false, network: ws, ws-path: /situ-jp1}
+  - {name: "V2 | 日本2", server: hncu.jjadg-adap.com, port: 43960, type: vmess, uuid: 95a25327-9195-11ec-a4b3-00163e067fd5, alterId: 1, cipher: auto, tls: false, network: ws, ws-path: /situ-jp2}
+  - {name: "V2 | 日本3", server: hncu.jjadg-adap.com, port: 43960, type: vmess, uuid: 95a25327-9195-11ec-a4b3-00163e067fd5, alterId: 1, cipher: auto, tls: false, network: ws, ws-path: /situ-jp3}
+  - {name: "V2 | 美国1", server: gzcm2.jjadg-adap.com, port: 43960, type: vmess, uuid: 95a25327-9195-11ec-a4b3-00163e067fd5, alterId: 1, cipher: auto, tls: false, network: ws, ws-path: /situ-us3-433}
+  - {name: "V2 | 美国2", server: gzcm2.jjadg-adap.com, port: 43960, type: vmess, uuid: 95a25327-9195-11ec-a4b3-00163e067fd5, alterId: 1, cipher: auto, tls: false, network: ws, ws-path: /situ-us4-434}
+  - {name: "V2 | 香港1", server: gzcm2.jjadg-adap.com, port: 43960, type: vmess, uuid: 95a25327-9195-11ec-a4b3-00163e067fd5, alterId: 1, cipher: auto, tls: false, network: ws, ws-path: /situ-hgc1}
+  - {name: "V2 | 香港2", server: gzcm2.jjadg-adap.com, port: 43960, type: vmess, uuid: 95a25327-9195-11ec-a4b3-00163e067fd5, alterId: 1, cipher: auto, tls: false, network: ws, ws-path: /situ-hgc2}
+  - {name: "V2 | 香港3", server: gzcm2.jjadg-adap.com, port: 43960, type: vmess, uuid: 95a25327-9195-11ec-a4b3-00163e067fd5, alterId: 1, cipher: auto, tls: false, network: ws, ws-path: /situ-hgc3}
+  - {name: "V2 | 香港4", server: gzcm2.jjadg-adap.com, port: 43960, type: vmess, uuid: 95a25327-9195-11ec-a4b3-00163e067fd5, alterId: 1, cipher: auto, tls: false, network: ws, ws-path: /situ-hgc4}
+  - {name: ""V2 | 马来西亚1", server: gzcm2.jjadg-adap.com, port: 43960, type: vmess, uuid: 95a25327-9195-11ec-a4b3-00163e067fd5, alterId: 1, cipher: auto, tls: false, network: ws, ws-path: /situ-tm1}
+  - {name: "V2 | 马来西亚2", server: gzcm2.jjadg-adap.com, port: 43960, type: vmess, uuid: 95a25327-9195-11ec-a4b3-00163e067fd5, alterId: 1, cipher: auto, tls: false, network: ws, ws-path: /situ-tm2} 
+  - {name: "V2 | 香港1 | IEPL x3", server: fwfvnsvvnvksdviepl.jjadg-adap.com, port: 9001, type: vmess, uuid: 95a25327-9195-11ec-a4b3-00163e067fd5, alterId: 1, cipher: auto, tls: false, network: tcp, ws-path: /hls}
+  - {name: "V2 | 香港2 | IEPL x3", server: fwfvnsvvnvksdviepl.jjadg-adap.com, port: 9002, type: vmess, uuid: 95a25327-9195-11ec-a4b3-00163e067fd5, alterId: 1, cipher: auto, tls: false, network: tcp, ws-path: /hls}
+  - {name: "V2 | 香港3 | IEPL x3", server: fwfvnsvvnvksdviepl.jjadg-adap.com, port: 9123, type: vmess, uuid: 95a25327-9195-11ec-a4b3-00163e067fd5, alterId: 1, cipher: auto, tls: false, network: tcp, ws-path: /hls}
+  - {name: "V2 | 香港4 | IEPL x3", server: fwfvnsvvnvksdviepl.jjadg-adap.com, port: 9456, type: vmess, uuid: 95a25327-9195-11ec-a4b3-00163e067fd5, alterId: 1, cipher: auto, tls: false, network: tcp, ws-path: /hls}
